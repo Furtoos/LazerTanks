@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/MAKS/Desktop/MonoGame/LazerTanks/LazerTanks/Content/../../../../Images/Tank_blue.png</File>
+    <File>C:/Users/MAKS/Desktop/MonoGame/LazerTanks/LazerTanks/Content/../../../../Images/Tank_green.png</File>
+    <File>C:/Users/MAKS/Desktop/MonoGame/LazerTanks/LazerTanks/Content/../../../../Images/Tank_red.png</File>
+    <File>C:/Users/MAKS/Desktop/MonoGame/LazerTanks/LazerTanks/Content/1HP.png</File>
+    <File>C:/Users/MAKS/Desktop/MonoGame/LazerTanks/LazerTanks/Content/1Shell.png</File>
+    <File>C:/Users/MAKS/Desktop/MonoGame/LazerTanks/LazerTanks/Content/2HP.png</File>
+    <File>C:/Users/MAKS/Desktop/MonoGame/LazerTanks/LazerTanks/Content/2Shell.png</File>
+    <File>C:/Users/MAKS/Desktop/MonoGame/LazerTanks/LazerTanks/Content/3HP.png</File>
+    <File>C:/Users/MAKS/Desktop/MonoGame/LazerTanks/LazerTanks/Content/3Shell.png</File>
+    <File>C:/Users/MAKS/Desktop/MonoGame/LazerTanks/LazerTanks/Content/4HP.png</File>
+    <File>C:/Users/MAKS/Desktop/MonoGame/LazerTanks/LazerTanks/Content/4Shell.png</File>
+    <File>C:/Users/MAKS/Desktop/MonoGame/LazerTanks/LazerTanks/Content/b.png</File>
+    <File>C:/Users/MAKS/Desktop/MonoGame/LazerTanks/LazerTanks/Content/g.png</File>
+    <File>C:/Users/MAKS/Desktop/MonoGame/LazerTanks/LazerTanks/Content/Main.spritefont</File>
+    <File>C:/Users/MAKS/Desktop/MonoGame/LazerTanks/LazerTanks/Content/menu_1.jpg</File>
+    <File>C:/Users/MAKS/Desktop/MonoGame/LazerTanks/LazerTanks/Content/menu_2.jpg</File>
+    <File>C:/Users/MAKS/Desktop/MonoGame/LazerTanks/LazerTanks/Content/menu_3.jpg</File>
+    <File>C:/Users/MAKS/Desktop/MonoGame/LazerTanks/LazerTanks/Content/r.png</File>
+    <File>C:/Users/MAKS/Desktop/MonoGame/LazerTanks/LazerTanks/Content/slot1platform.png</File>
+    <File>C:/Users/MAKS/Desktop/MonoGame/LazerTanks/LazerTanks/Content/slot2platform.png</File>
+    <File>C:/Users/MAKS/Desktop/MonoGame/LazerTanks/LazerTanks/Content/slot3platform.png</File>
+    <File>C:/Users/MAKS/Desktop/MonoGame/LazerTanks/LazerTanks/Content/slot4platform.png</File>
+    <File>C:/Users/MAKS/Desktop/MonoGame/LazerTanks/LazerTanks/Content/Sprites.png</File>
+    <File>C:/Users/MAKS/Desktop/MonoGame/LazerTanks/LazerTanks/Content/Tank_yellow.png</File>
+    <File>C:/Users/MAKS/Desktop/MonoGame/LazerTanks/LazerTanks/Content/y.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Tank_blue.png</File>
+    <File>Tank_green.png</File>
+    <File>Tank_red.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
